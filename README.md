@@ -1,15 +1,21 @@
 ### About me
+<div style="display: flex"
+  <div align="left">
+  Hey there! I’m Dayana Mariano, 27 years old, currently living in Brazil.
 
-Hey there! I’m Dayana Mariano, 27 years old, currently living in Brazil.
+  I am a self-taught software development student.
 
-I am a self-taught software development student.
+  - 🖥️ Front-End Development Student
+  - 🔭 I'm looking for junior developer job
+  - 🌱 I’m currently learning JavaScript
+  - ⚡️ Fun fact: I'm graduated in nutrition
+  - 💌 Contact me: <a href="https://www.linkedin.com/in/dayana-mariano/">Linkedin</a>
+  </div>
 
-- 🖥️ Front-End Development Student
-- 🔭 I'm looking for junior developer job
-- 🌱 I’m currently learning JavaScript
-- ⚡️ Fun fact: I'm graduated in nutrition
-- 💌 Contact me: <a href="https://www.linkedin.com/in/dayana-mariano/">Linkedin</a>
-
+ <!-- <div align="right">
+    <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"    src="https://cdn.discordapp.com/attachments/226886427810594816/959517209800081488/ezgif.com-gif-maker.gif">
+    </div>//
+  </div> -->
 <div align="center">
   <a href="https://github.com/day-mariano">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=day-mariano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -19,5 +25,4 @@ I am a self-taught software development student.
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/226886427810594816/959517209800081488/ezgif.com-gif-maker.gif">
 </div>
