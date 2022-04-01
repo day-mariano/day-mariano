@@ -11,7 +11,7 @@
 </div>
 
   <div align="right">
-    <img align="right" alt="day-pic" height="150" style="border-radius:50px;"   src="https://cdn.discordapp.com/attachments/226886427810594816/959517209800081488/ezgif.com-gif-maker.gif">
+    <img align="right" alt="day-pic" height="130" style="border-radius:50px;"   src="https://cdn.discordapp.com/attachments/226886427810594816/959517209800081488/ezgif.com-gif-maker.gif">
 </div> 
   
 <div style="display: inline_block">
