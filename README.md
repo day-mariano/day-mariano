@@ -16,8 +16,8 @@
   
 <div style="display: inline_block">
   <a href="https://github.com/day-mariano">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=day-mariano&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=day-mariano&layout=compact&langs_count=7&theme=aura_dark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=day-mariano&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=day-mariano&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
   
 <div style="display: inline_block"><br>
