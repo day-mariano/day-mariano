@@ -10,14 +10,15 @@
   - 💌 Contact me: <a href="https://www.linkedin.com/in/dayana-mariano/">Linkedin</a>    
 </div>
 
-  <div align="right">
-    <img align="right" alt="day-pic" height="130" style="border-radius:50px;"   src="https://cdn.discordapp.com/attachments/226886427810594816/959517209800081488/ezgif.com-gif-maker.gif">
-</div> 
+ 
   
-<div style="display: inline_block">
+<div style="display: flex">
+   <div align="right">
+    <img align="right" alt="day-pic" height="150" style="border-radius:50px;"   src="https://cdn.discordapp.com/attachments/226886427810594816/959517209800081488/ezgif.com-gif-maker.gif">
+</div> 
   <a href="https://github.com/day-mariano">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api?username=day-mariano&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=day-mariano&layout=compact&langs_count=7&theme=aura_dark"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=day-mariano&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=day-mariano&layout=compact&langs_count=7&theme=aura_dark"/>
 </div>
   
 <div style="display: inline_block"><br>
