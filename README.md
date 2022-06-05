@@ -1,11 +1,11 @@
 ### About me
 <div style="display: flex">
   <div align="left">
-  <p>Hey there! I’m Dayana Mariano, 27 years old, currently living in Brazil. I am a self-taught software development student.</p>
+  <p>Hey there! I’m Dayana Mariano, 28 years old, currently living in Brazil. I am a self-taught software development student.</p>
   
   - 🖥️ Front-End Development Student
   - 🔭 I'm looking for junior developer job
-  - 🌱 I’m currently learning JavaScript
+  - 🌱 I’m currently learning JavaScript and API
   - ⚡️ Fun fact: I'm graduated in nutrition
   - 💌 Contact me: <a href="https://www.linkedin.com/in/dayana-mariano/">Linkedin</a>    
 </div>
@@ -14,7 +14,7 @@
   
 <div style="display: flex">
    <div align="right">
-    <img align="right" alt="day-pic" height="150" style="border-radius:50px;"   src="https://cdn.discordapp.com/attachments/226886427810594816/959517209800081488/ezgif.com-gif-maker.gif">
+    <img align="right" alt="day-pic" height="130" style="border-radius:50px;"   src="https://cdn.discordapp.com/attachments/226886427810594816/959517209800081488/ezgif.com-gif-maker.gif">
 </div> 
   <a href="https://github.com/day-mariano">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=day-mariano&show_icons=true&theme=aura_dark&include_all_commits=true&count_private=true"/>
