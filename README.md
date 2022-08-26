@@ -5,7 +5,7 @@
   
   - 🖥️ Front-End Development Student
   - 🔭 I'm looking for junior developer job
-  - 🌱 I’m currently learning JavaScript and API
+  - 🌱 I’m currently learning React
   - ⚡️ Fun fact: I'm graduated in nutrition
   - 💌 Contact me: <a href="https://www.linkedin.com/in/dayana-mariano/">Linkedin</a>    
 </div>
