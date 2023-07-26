@@ -1,7 +1,7 @@
 ### About me
 <div style="display: flex">
   <div align="left">
-  <p>Hey there! I’m Dayana Mariano, 28 years old, currently living in Brazil. I am a self-taught software development student.</p>
+  <p>Hey there! I’m Dayana Mariano, 29 years old, currently living in Brazil. I am a self-taught software development student.</p>
   
   - 🖥️ Front-End Development Student
   - 🔭 I'm looking for junior developer job
