@@ -4,9 +4,9 @@
   <p>Hey there! I’m Dayana Mariano, 29 years old, currently living in Brazil. I am a self-taught software development student.</p>
   
   - 🖥️ Front-End Development Student
-  - 🔭 I'm looking for junior developer job
+  - 🔭 I'm looking for junior Front end developer job
   - 🌱 I’m currently learning React
-  - ⚡️ Fun fact: I'm graduated in nutrition
+  - 💫 Fun fact: I'm graduated in nutrition, and I practice figure skating
   - 💌 Contact me: <a href="https://www.linkedin.com/in/dayana-mariano/">Linkedin</a>    
 </div>
 
