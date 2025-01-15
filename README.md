@@ -1,11 +1,11 @@
 ### About me
 <div style="display: flex">
   <div align="left">
-  <p>Hey there! I’m Dayana Mariano, 30 years old, currently living in Brazil. I am a web software development</p>
+  <p>Hey there! I’m Dayana Mariano, currently living in Brazil. I am a web software development</p>
   
   - 🖥️ Front-End Development
-  - 🔭 I'm looking for junior Front-end developer job
-  - 🌱 I’m currently learning React
+  - 🔭 I'm looking for a Front-end developer job
+  - 🌱 I’m currently learning React Native
   - 💫 Fun fact: I'm graduated in nutrition, and I practice figure skating
   - 💌 Contact me: <a href="https://www.linkedin.com/in/dayana-mariano/">Linkedin</a>    
 </div>
@@ -27,5 +27,11 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-React" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+
+  
   
 </div>
