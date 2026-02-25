@@ -4,9 +4,9 @@
   <p>Hey there! I’m Dayana Mariano, currently living in Brazil. I am a web software development</p>
   
   - 🖥️ Front-End Development
-  - 🔭 I'm looking for a Front-end developer job
+  - 🔭 I'm currently working on my personal projects
   - 🌱 I’m currently learning React Native
-  - 💫 Fun fact: I'm graduated in nutrition, and I practice figure skating
+  - 💫 Fun fact: I'm graduated in nutrition, and I practice ballet
   - 💌 Contact me: <a href="https://www.linkedin.com/in/dayana-mariano/">Linkedin</a>    
 </div>
 
